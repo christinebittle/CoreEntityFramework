@@ -38,5 +38,5 @@ This sample project contains features for Entity Framework Core Code First Migra
 - remove-migration
 - update database
 - change Review.cs Stars to a float
-- add-migration 'starsfloat'
+- add-migration
 - update-database
