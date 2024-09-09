@@ -22,7 +22,7 @@ This sample project contains features for Entity Framework Core Code First Migra
 
 ## Test your understanding!
 - Modify Product.cs to include ProductPrice (decimal)
-- Add a migration 'productprice'
+- Tools > NuGet Package Manager > Package Manager Console > add-migration productprice
 - Update the database with the new product price migration, creating the price column on the product table
 - Add a new entity /Models/Review.cs
 - Register 'Reviews' in AppDbContext.cs
@@ -33,3 +33,5 @@ This sample project contains features for Entity Framework Core Code First Migra
 - Update the database with the customer reviews migration, creating a customer ID FK on the review table
 - Create a migration which links the review to the product as well (one product has many reviews, each review for one product)
 - Modify Review.cs to have 'Stars' as an integer
+- add-migration 'stars'
+- remove-migration
