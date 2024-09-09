@@ -34,4 +34,9 @@ This sample project contains features for Entity Framework Core Code First Migra
 - Create a migration which links the review to the product as well (one product has many reviews, each review for one product)
 - Modify Review.cs to have 'Stars' as an integer
 - add-migration 'stars'
+- update database customer reviews to go back to customer reviews migration
 - remove-migration
+- update database
+- change Review.cs Stars to a float
+- add-migration 'starsfloat'
+- update-database
