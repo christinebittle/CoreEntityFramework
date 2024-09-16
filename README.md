@@ -20,6 +20,10 @@ This sample project contains features for Entity Framework Core Code First Migra
 9. localhost:xx/swagger/index.html
 10. Try It Out on GET api/product
 
+## Index of Examples
+1. [Code First Migrations](https://github.com/christinebittle/CoreEntityFramework)
+2. [Core API](https://github.com/christinebittle/CoreAPI)
+
 ## Test your understanding!
 - Modify Product.cs to include ProductPrice (decimal)
 - Tools > NuGet Package Manager > Package Manager Console > add-migration productprice
