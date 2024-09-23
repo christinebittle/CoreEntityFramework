@@ -21,8 +21,9 @@ This sample project contains features for Entity Framework Core Code First Migra
 10. Try It Out on GET api/product
 
 ## Index of Examples
-1. [Code First Migrations](https://github.com/christinebittle/CoreEntityFramework)
+1. [Core Entity Framework](https://github.com/christinebittle/CoreEntityFramework)
 2. [Core API](https://github.com/christinebittle/CoreAPI)
+3. [Core Services](https://github.com/christinebittle/CoreServices)
 
 ## Test your understanding!
 - Modify Product.cs to include ProductPrice (decimal)
