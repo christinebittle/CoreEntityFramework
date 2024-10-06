@@ -25,6 +25,7 @@ This sample project contains features for Entity Framework Core Code First Migra
 2. [Core API](https://github.com/christinebittle/CoreAPI)
 3. [Core Services](https://github.com/christinebittle/CoreServices)
 4. [MVC & ViewModels](https://github.com/christinebittle/OnlineStore)
+5. [Simple Authentication](https://github.com/christinebittle/OnlineStore/tree/Authentication1)
 
 ## Test your understanding!
 - Modify Product.cs to include ProductPrice (decimal)
