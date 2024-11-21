@@ -30,6 +30,7 @@ This sample project contains features for Entity Framework Core Code First Migra
 7. [Role Based Authorization](https://github.com/christinebittle/OnlineStore/tree/Authentication2)
 8. [Conditional Access](https://github.com/christinebittle/OnlineStore/tree/conditional-access)
 9. [Conditional Rendering](https://github.com/christinebittle/OnlineStore/tree/conditional-rendering)
+10. [Client Integration](https://github.com/christinebittle/OnlineStore/tree/client-integration)
 
 ## Test your understanding!
 - Modify Product.cs to include ProductPrice (decimal)
